@@ -1,9 +1,30 @@
-.bg-fondo{
-background-color: #DE1D22;
+.navbar {
+
+  background-color: #de1d22;
 }
 #body{
-background-color: : #000000;
+  background-color: #ededed;
 }
+
+
 #color-de-texto{
-color: #f8f9fa;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.h5{
+  color: white;
+  font-family: 'Inter', sans-serif;
+  background-color: black;
+}
+
+
+#card-red{
+  background-color: #de1d22;
+}
+.card-text{
+  color: #ededed;
+}
+.card-title{
+  color: #ededed;
 }
