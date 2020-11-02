@@ -1,11 +1,9 @@
 .navbar {
-
   background-color: #de1d22;
 }
-#body{
-  background-color: #ededed;
+.body{
+  background-color: #de1d22;
 }
-
 
 #color-de-texto{
   color: white;
@@ -18,7 +16,6 @@
   background-color: black;
 }
 
-
 #card-red{
   background-color: #de1d22;
 }
@@ -27,4 +24,7 @@
 }
 .card-title{
   color: #ededed;
+}
+.card-link{
+  color:black
 }
