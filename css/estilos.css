@@ -4,6 +4,10 @@
 .body{
   background-color: #de1d22;
 }
+body{
+  background-color: #000000
+
+}
 
 #color-de-texto{
   color: white;
@@ -27,4 +31,10 @@
 }
 .card-link{
   color:black
+
+}
+footer{
+
+background-color: #cccccc;
+
 }
